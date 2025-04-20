@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+altair
+scikit-learn
+nltk
+textstat
+wordcloud
+umap-learn
+hdbscan
+sentence-transformers
+pyLDAvis
+spacy
+cmudict
